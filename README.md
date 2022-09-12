@@ -6,7 +6,7 @@
 </div>
 
 <details>
-  <summary>Language chart</summary>
+  <summary>GitHub Statistics</summary>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pvczku&show_icons=true&theme=dark" width="500">
   </div>
