@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Patryk and I'm a Junior Programmer from Poland</h2>
 
 ###
-<!-- [!(https://github-readme-stats.vercel.app/api?username=pvczku)]
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=pvczku)] -->
+<img src="https://github-readme-stats.vercel.app/api?username=pvczku">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvczku">
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Languages I code with&username=pvczku" height="150" alt="languages graph"  />
