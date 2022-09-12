@@ -3,10 +3,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvczku&show_icons=true&theme=dark" width="350"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvczku&theme=dark" width="350">
-  <img src="https://wakatime.com/share/@83ca7548-0545-40ed-9eb8-3e6c38dce983/db2e2a28-3d98-4def-9827-9cff65504120.png" />
 </div>
+
+<details>
+  <summary>Language chart</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=pvczku&show_icons=true&theme=dark" width="350">
+</details>
+
+<details>
+  <summary>Language chart</summary>
+  <div align="center">
+    <img src="https://wakatime.com/share/@83ca7548-0545-40ed-9eb8-3e6c38dce983/db2e2a28-3d98-4def-9827-9cff65504120.png" />
+  </div>
+</details>
 
 ###
 
