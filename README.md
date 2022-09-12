@@ -7,13 +7,15 @@
 
 <details>
   <summary>Language chart</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=pvczku&show_icons=true&theme=dark" width="350">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pvczku&show_icons=true&theme=dark" width="500">
+  </div>
 </details>
 
 <details>
   <summary>Language chart</summary>
   <div align="center">
-    <img src="https://wakatime.com/share/@83ca7548-0545-40ed-9eb8-3e6c38dce983/db2e2a28-3d98-4def-9827-9cff65504120.png" />
+    <img src="https://wakatime.com/share/@83ca7548-0545-40ed-9eb8-3e6c38dce983/db2e2a28-3d98-4def-9827-9cff65504120.png" width="700"/>
   </div>
 </details>
 
